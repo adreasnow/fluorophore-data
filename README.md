@@ -1,6 +1,66 @@
-# Raw data from the fluorophore dataset
+# UV-Vis and Time Resolved Fluorophore dataset for Computational study (UTFC?)
 
-## Notes
+## The Dataset
+
+### Fluorophores
+
+![alt](fluorophores.png)
+
+Keys: 
+1. r800: Rhodamine 800
+2. nr: Nile Red
+3. aaq: 1-Aminoanthraquinone
+4. nda: *n*-methoxyethyl-4-methoxy-1,8-naphthalimide
+5. daa: Dansyl amide
+6. bod493: BODIPY 493/503
+7. az: Azulene
+8. dapi: DAPI
+9. bsc: Boron Subphthalocyanine Chloride
+10. c153: Coumarin 153 
+
+### Solvents
+
+![alt](solvent_properties.png)
+
+keys:
+* nhex: *n*-hexane
+* tol: Toluene
+* ans: Anisole
+* ether: Ether
+* chcl3: Chloroform
+* thf: THF
+* dcm: DCM
+* c8oh: Octanol
+* etoh: Ethanol
+* acn: ACN
+* dmf: DMF
+* dmso: DMSO
+
+
+
+## Directory structure
+
+```
+.
+├── README.md
+├── abs                                   <- Raw absorbance Data
+|   └── <fluorophore>
+|       └── <fluorophore>_<solvent>.csv
+├── fluor                                 <- Raw fluorescence Data
+|   └── <fluorophore>
+|       └── <fluorophore>_<solvent>.csv
+├── ex                                    <- Raw excitation Data
+|   └── <fluorophore>
+|       └── <fluorophore>_<solvent>.csv
+└── tr                                    <- Raw time resolved Data
+    └── <fluorophore>
+        ├── <fluorophore>_<solvent>_irf.phd/.txt
+        └── <fluorophore>_<solvent>.phd/.txt
+```
+
+
+
+## Notes on the data
 
 ### TCSPC
 
@@ -20,7 +80,7 @@ Stil investigating
 
 The time resolved data is stored in a mix of .txt and .phd files. The .phd importer wasn't written until just after data acquisition started, so a few species were still stored via the "copy-paste from PicoHarp into notepad" method.
 
-The newly written .phd file importer is available at [picoharp-phd](https://github.com/adreasnow/picoharp-phd).
+The newly written .phd file importer is available at [picoharp-phd](https://github.com/adreasnow/picoharp-phd) and is able to read all of the TRF and IRF data within this dataset. (It has to, since it's the code I'm maintaining to process the data!)
 
 ### UV-Vis
 
@@ -35,6 +95,7 @@ This data was all collected on an Agilent Cary Eclipse fluorescence spectrometer
 The corrections provided are `exCorr` for the excitation lamp, `emCorr` for the PMT sensitivity, and `cuvette_trans` which accounts for the small difference in transmission for shorter wavelengths. They're applied as such...
 
 For emission spectra:
+
 ```python
 for x, y in zip(xRound, yIn):
   yCorr += [y * emCorr[*int*(x)] * exCorr[enLambda] * cuvette_trans[*int*(x)] * cuvette_trans[enLambda]]
@@ -48,57 +109,3 @@ for x, y in zip(xRound, yIn):
 ```
 
 Solvent baseline spectra have also been collected for each emission and excitation spectrum.
-
-## Directory structure
-
-```
-.
-├── README.md
-├── abs                                   <- Absorbance Data
-|   └── <fluorophore>
-|       └── <fluorophore>_<solvent>.csv
-├── fluor                                 <- Fluorescence Data
-|   └── <fluorophore>
-|       └── <fluorophore>_<solvent>.csv
-├── ex                                    <- Excitation Data
-|   └── <fluorophore>
-|       └── <fluorophore>_<solvent>.csv
-└── tr                                    <- Time resolved Data
-    └── <fluorophore>
-        ├── <fluorophore>_<solvent>_irf.phd/.txt
-        └── <fluorophore>_<solvent>.phd/.txt
-```
-
-## Fluorophores
-
-![alt](fluorophores.png)
-
-Dataset: 
-1. r800: Rhodamine 800
-2. nr: Nile Red
-3. aaq: 1-Aminoanthraquinone
-4. nda: *n*-methoxyethyl-4-methoxy-1,8-naphthalimide
-5. daa: Dansyl amide
-6. bod493: BODIPY 493/503
-7. az: Azulene
-8. dapi: DAPI
-9. bsc: Boron Subphthalocyanine Chloride
-10. c153: Coumarin 153 
-
-## Solvents
-
-![alt](solvent_properties.png)
-
-Dataset:
-* nhex: *n*-hexane
-* tol: Toluene
-* ans: Anisole
-* ether: Ether
-* chcl3: Chloroform
-* thf: THF
-* dcm: DCM
-* c8oh: Octanol
-* etoh: Ethanol
-* acn: ACN
-* dmf: DMF
-* dmso: DMSO
