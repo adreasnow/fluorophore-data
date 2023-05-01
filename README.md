@@ -69,19 +69,21 @@ Solvent baseline spectra have also been collected for each emission and excitati
         └── <fluorophore>_<solvent>.phd/.txt
 ```
 
-
 ## Fluorophores
+
+![alt](fluorophores.png)
+
 Dataset: 
-* az: Azulene
-* r800: Rhodamine 800
-* aaq: 1-Aminoanthraquinone
-* c153: Coumarin 153 
-* nr: Nile Red
-* bod493: BODIPY 493/503
-* nda: *n*-methoxyethyl-4-methoxy-1,8-naphthalimide
-* dapi: DAPI
-* daa: Dansyl amide
-* bsc: Boron Subphthalocyanine Chloride
+1. r800: Rhodamine 800
+2. nr: Nile Red
+3. aaq: 1-Aminoanthraquinone
+4. nda: *n*-methoxyethyl-4-methoxy-1,8-naphthalimide
+5. daa: Dansyl amide
+6. bod493: BODIPY 493/503
+7. az: Azulene
+8. dapi: DAPI
+9. bsc: Boron Subphthalocyanine Chloride
+10. c153: Coumarin 153 
 
 ## Solvents
 
