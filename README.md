@@ -6,9 +6,11 @@
 
 The TCSPC setup is a bespoke implementation utilising:
 
-* a PicoHarp 300 for timing of the photons, 
-* a Fianium SC-400-pp white laser for excitation, (with wavelength selection filters)
-* a ThorLabs 375nm laser diode head driven by a PicoQuant PDL 800-D for UV excitation
+* PicoHarp 300 for timing of the photons
+* Fianium SC-400-pp white laser for excitation, (with wavelength selection filters)
+  * a PicoQuant TDA 200 trigger diode was used for timing of the white laser, with a coverslip used to redirect ~10-12% of the photon flux
+* ThorLabs 375nm laser diode head driven by a PicoQuant PDL 800-D for UV excitation
+  * The trigger signal for the PicoHarp was taken directly from the PicoQuant. 
 * ThorLabs PF10-03-F01 mirrors (250-450 nm) for the UV path
 * ThorLabs BB1-EO2 mirrors (400-750 nm) for the Visible path
 
