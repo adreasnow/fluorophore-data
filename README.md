@@ -78,7 +78,7 @@ Dataset:
 * c153: Coumarin 153 
 * nr: Nile Red
 * bod493: BODIPY 493/503
-* nda: Naphthalamide
+* nda: *n*-methoxyethyl-4-methoxy-1,8-naphthalimide
 * dapi: DAPI
 * daa: Dansyl amide
 * bsc: Boron Subphthalocyanine Chloride
