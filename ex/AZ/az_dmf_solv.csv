@@ -1,0 +1,250 @@
+Sample 31,,
+Wavelength (nm),Intensity (a.u.),
+220,2.017291069,
+220.9299927,0.7952286601,
+222.0299988,0.8441489935,
+222.9600067,0.6182106733,
+224.0599976,-0.06940588355,
+225,0.05081042647,
+225.9299927,0.4654229581,
+227.0299988,-0.02946636453,
+227.9600067,0.1738223583,
+229.0599976,0.2960533798,
+230,0.06763307005,
+230.9299927,0.1884259433,
+232.0299988,0.1913823187,
+232.9600067,-0.08504848182,
+234.0599976,0.3785672486,
+235,0.2659102976,
+235.9299927,0.5896052718,
+237.0299988,0.02696580626,
+237.9600067,0.2592749596,
+239.0599976,0.1416717321,
+240,0.2073541582,
+240.9299927,0.2192845196,
+242.0299988,-0.02699711174,
+242.9600067,0.07599746436,
+244.0599976,0.1154307872,
+245,0.09687106311,
+245.9299927,0.08102086931,
+247.0299988,0.1297016889,
+247.9600067,0.1550163329,
+249.0599976,0.1334044784,
+250,0.112621069,
+250.9299927,0.02744425274,
+252.0299988,-0.03039282747,
+252.9600067,0.09897886962,
+254.0599976,0.1839803308,
+255,0.2217295021,
+255.9299927,0.05407670513,
+257.0299988,0.1789388955,
+257.9599915,0.1055530533,
+259.0599976,0.07693425566,
+260,0.188021332,
+261.0700073,0.2009444386,
+262,0.3186035752,
+263.0700073,0.6065618992,
+264,1.179523468,
+265.0700073,1.718473077,
+266,2.350956678,
+267.0700073,3.088125944,
+268,3.485753298,
+269.0700073,4.19101572,
+270,4.947988033,
+270.9299927,5.532387733,
+272.0299988,5.635509968,
+272.9599915,6.024420738,
+274.0599976,6.566819191,
+275,6.899895191,
+275.9299927,7.557876587,
+277.0299988,8.164505005,
+277.9599915,8.378376007,
+279.0599976,9.084406853,
+280,9.359574318,
+280.9299927,9.691677094,
+282.0299988,10.05104351,
+282.9599915,10.60023212,
+284.0599976,10.29679012,
+285,10.7519474,
+285.9299927,11.05791283,
+287.0299988,11.13072968,
+287.9599915,11.42648792,
+289.0599976,11.33514977,
+290,12.14393139,
+291.0700073,11.93466854,
+292,12.56710148,
+293.0700073,12.28020191,
+294,12.39816284,
+295.0700073,12.23884201,
+296,12.03217697,
+297.0700073,12.03307819,
+298,11.76305676,
+299.0700073,11.63205624,
+300,11.40516472,
+300.9299927,10.87485886,
+302.0299988,11.10210609,
+302.9599915,10.82743931,
+304.0599976,10.42113972,
+305,10.49706364,
+305.9299927,10.14548779,
+307.0299988,9.565074921,
+307.9599915,9.480140686,
+309.0599976,8.81975174,
+310,8.384242058,
+311.0700073,7.925902367,
+312,7.427830219,
+313.0700073,7.127814293,
+314,6.729831219,
+315.0700073,6.240490913,
+316,5.954652309,
+317.0700073,5.246650219,
+318,5.442541122,
+319.0700073,5.04150486,
+320,4.780227661,
+321.0700073,4.650826931,
+322,4.008797169,
+323.0700073,4.067433834,
+324,3.93252039,
+325.0700073,3.354385853,
+326,3.112329483,
+327.0700073,3.004725933,
+328,2.870531321,
+329.0700073,2.881102324,
+330,2.553893566,
+330.9299927,2.678726196,
+332.0299988,2.667777061,
+332.9599915,2.728912592,
+334.0599976,2.974730253,
+335,3.401468277,
+335.9299927,3.01570034,
+337.0299988,3.272251129,
+337.9599915,3.238614082,
+339.0599976,2.896290541,
+340,2.108363628,
+341.0700073,1.976044178,
+342,1.563961625,
+343.0700073,1.493432999,
+344,1.386648536,
+345.0700073,1.386768341,
+346,1.213224173,
+347.0700073,1.285346985,
+348,1.195360184,
+349.0700073,1.39823842,
+350,1.083584428,
+351.0700073,1.32814467,
+352,1.345828533,
+353.0700073,1.361146092,
+354,1.384550929,
+355.0700073,1.393644929,
+356,1.050586224,
+357.0700073,0.9648622274,
+358,0.7535440326,
+359.0700073,0.7223173976,
+360,0.635219574,
+361.0700073,0.6295624971,
+362,0.5741476417,
+363.0700073,0.5806907415,
+364,0.4394617975,
+365.0700073,0.491189301,
+366,1.009341836,
+367.0700073,2.247673273,
+368,4.990472794,
+369.0700073,11.41815853,
+370,18.45314217,
+
+Sample 31,
+Sample 31
+Collection Time: 5/05/2023 4:35:11 PM
+Operator Name  :
+Scan Software Version: 1.2(147)
+Parameter List :
+Instrument                        Cary Eclipse
+Instrument Serial Number          test
+Data mode                         Fluorescence
+Scan mode                         Excitation
+X Mode                            Wavelength (nm)
+Start (nm)                        220.00
+Stop (nm)                         370.00
+Em. Wavelength (nm)               376.00
+Ex. Slit (nm)                     5
+Em. Slit (nm)                     5
+Scan rate (nm/min)                600.00
+Data interval (nm)                1.0000
+Averaging Time (s)                0.1000
+Excitation filter                 Auto
+Emission filter                   Open
+PMT voltage (V)                   Medium
+Corrected spectra                 OFF
+Method Log     :
+Method Name    : Default
+Date/Time stamp: 5/05/2023 1:46:27 PM
+Method Modifications:
+User Delta Stop Changed: 5/05/2023 2:37:38 PM, Old: 450.00, New: 690.00
+User Delta Increment Changed: 5/05/2023 2:37:38 PM, Old:  10.00, New:   0.15
+Excitation Wavelength Changed: 5/05/2023 2:37:38 PM, Old: 350.00, New: 690.00
+Emission Wavelength Changed: 5/05/2023 2:37:38 PM, Old: 400.00, New: 700.00
+Stop Wavelength Changed: 5/05/2023 2:37:38 PM, Old: 600.00, New: 850.00
+Excitation Wavelength Changed: 5/05/2023 2:38:01 PM, Old: 690.00, New: 630.00
+Emission Wavelength Changed: 5/05/2023 2:38:01 PM, Old: 700.00, New: 640.00
+Overlayed Graphs Changed: 5/05/2023 2:38:31 PM, Old:OFF, New:ON
+Scan mode: Changed: 5/05/2023 2:40:13 PM, Old:Emission, New:Excitation
+User Delta Stop Changed: 5/05/2023 2:40:13 PM, Old: 690.00, New: 780.00
+Excitation Wavelength Changed: 5/05/2023 2:40:13 PM, Old: 630.00, New: 220.00
+Emission Wavelength Changed: 5/05/2023 2:40:13 PM, Old: 640.00, New: 780.00
+Stop Wavelength Changed: 5/05/2023 2:40:13 PM, Old: 850.00, New: 770.00
+Scan mode: Changed: 5/05/2023 2:52:20 PM, Old:Excitation, New:Emission
+Excitation Wavelength Changed: 5/05/2023 2:52:20 PM, Old: 220.00, New: 566.00
+Emission Wavelength Changed: 5/05/2023 2:52:20 PM, Old: 780.00, New: 576.00
+Stop Wavelength Changed: 5/05/2023 2:52:20 PM, Old: 770.00, New: 850.00
+Excitation Wavelength Changed: 5/05/2023 2:53:03 PM, Old: 566.00, New: 500.00
+Emission Wavelength Changed: 5/05/2023 2:53:03 PM, Old: 576.00, New: 510.00
+Scan mode: Changed: 5/05/2023 2:55:50 PM, Old:Emission, New:Excitation
+Excitation Wavelength Changed: 5/05/2023 2:55:50 PM, Old: 500.00, New: 220.00
+Emission Wavelength Changed: 5/05/2023 2:55:50 PM, Old: 510.00, New: 613.00
+Stop Wavelength Changed: 5/05/2023 2:55:50 PM, Old: 850.00, New: 605.00
+Emission Wavelength Changed: 5/05/2023 2:56:46 PM, Old: 613.00, New: 625.00
+Stop Wavelength Changed: 5/05/2023 2:56:46 PM, Old: 605.00, New: 615.00
+Scan mode: Changed: 5/05/2023 3:10:55 PM, Old:Excitation, New:Emission
+Excitation Wavelength Changed: 5/05/2023 3:10:55 PM, Old: 220.00, New: 542.00
+Emission Wavelength Changed: 5/05/2023 3:10:55 PM, Old: 625.00, New: 552.00
+Stop Wavelength Changed: 5/05/2023 3:10:55 PM, Old: 615.00, New: 800.00
+Scan mode: Changed: 5/05/2023 3:23:18 PM, Old:Emission, New:Excitation
+Excitation Wavelength Changed: 5/05/2023 3:23:18 PM, Old: 542.00, New: 220.00
+Emission Wavelength Changed: 5/05/2023 3:23:18 PM, Old: 552.00, New: 640.00
+Stop Wavelength Changed: 5/05/2023 3:23:18 PM, Old: 800.00, New: 630.00
+Scan mode: Changed: 5/05/2023 3:39:01 PM, Old:Excitation, New:Emission
+Excitation Wavelength Changed: 5/05/2023 3:39:01 PM, Old: 220.00, New: 460.00
+Emission Wavelength Changed: 5/05/2023 3:39:01 PM, Old: 640.00, New: 470.00
+Stop Wavelength Changed: 5/05/2023 3:39:01 PM, Old: 630.00, New: 700.00
+Scan mode: Changed: 5/05/2023 3:41:10 PM, Old:Emission, New:Excitation
+Excitation Wavelength Changed: 5/05/2023 3:41:10 PM, Old: 460.00, New: 220.00
+Emission Wavelength Changed: 5/05/2023 3:41:10 PM, Old: 470.00, New: 540.00
+Stop Wavelength Changed: 5/05/2023 3:41:10 PM, Old: 700.00, New: 530.00
+Emission Wavelength Changed: 5/05/2023 3:42:01 PM, Old: 540.00, New: 580.00
+Stop Wavelength Changed: 5/05/2023 3:42:01 PM, Old: 530.00, New: 570.00
+Excitation Wavelength Changed: 5/05/2023 3:42:20 PM, Old: 220.00, New: 390.00
+Excitation Wavelength Changed: 5/05/2023 3:42:26 PM, Old: 390.00, New: 220.00
+Scan mode: Changed: 5/05/2023 4:19:33 PM, Old:Excitation, New:Emission
+Excitation Wavelength Changed: 5/05/2023 4:19:33 PM, Old: 220.00, New: 365.00
+Emission Wavelength Changed: 5/05/2023 4:19:33 PM, Old: 580.00, New: 370.00
+Stop Wavelength Changed: 5/05/2023 4:19:33 PM, Old: 570.00, New: 600.00
+Excitation Wavelength Changed: 5/05/2023 4:20:26 PM, Old: 365.00, New: 320.00
+Emission Wavelength Changed: 5/05/2023 4:20:26 PM, Old: 370.00, New: 330.00
+Scan mode: Changed: 5/05/2023 4:22:22 PM, Old:Emission, New:Excitation
+Excitation Wavelength Changed: 5/05/2023 4:22:22 PM, Old: 320.00, New: 220.00
+Emission Wavelength Changed: 5/05/2023 4:22:22 PM, Old: 330.00, New: 500.00
+Stop Wavelength Changed: 5/05/2023 4:22:22 PM, Old: 600.00, New: 490.00
+Scan mode: Changed: 5/05/2023 4:30:21 PM, Old:Excitation, New:Emission
+Excitation Wavelength Changed: 5/05/2023 4:30:21 PM, Old: 220.00, New: 320.00
+Emission Wavelength Changed: 5/05/2023 4:30:21 PM, Old: 500.00, New: 330.00
+Stop Wavelength Changed: 5/05/2023 4:30:21 PM, Old: 490.00, New: 600.00
+Excitation Wavelength Changed: 5/05/2023 4:31:31 PM, Old: 320.00, New: 327.00
+Emission Wavelength Changed: 5/05/2023 4:31:31 PM, Old: 330.00, New: 337.00
+Scan mode: Changed: 5/05/2023 4:33:42 PM, Old:Emission, New:Excitation
+Excitation Wavelength Changed: 5/05/2023 4:33:42 PM, Old: 327.00, New: 220.00
+Emission Wavelength Changed: 5/05/2023 4:33:42 PM, Old: 337.00, New: 400.00
+Stop Wavelength Changed: 5/05/2023 4:33:42 PM, Old: 600.00, New: 390.00
+Emission Wavelength Changed: 5/05/2023 4:34:20 PM, Old: 400.00, New: 376.00
+Stop Wavelength Changed: 5/05/2023 4:34:20 PM, Old: 390.00, New: 370.00
+End Method Modifications
+
