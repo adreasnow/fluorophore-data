@@ -17,6 +17,9 @@ Keys:
 8. dapi: DAPI
 9. bsc: Boron Subphthalocyanine Chloride
 10. c153: Coumarin 153 
+11. bpa: 9,10-bis(phenylethynyl)anthracene
+12. fat: fluoranthene
+13. fno: 9-fluorenone
 
 ### Solvents
 
@@ -113,6 +116,8 @@ for x, y in zip(xRound, yIn):
 All of this has been implemented in [specCorr.py](https://github.com/adreasnow/es-and-monarch-handler/blob/main/specCorr.py) in my working repository for this study.
 
 Solvent baseline spectra have also been collected for each emission and excitation spectrum.
+
+Correction factors were only determined to a 1nm precision and thus is the resolution limit of the spectra.
 
 #### Excitation Corrections beyond 600nm
 
